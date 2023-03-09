@@ -1,3 +1,3 @@
 # Patika.dev
 
-Kodluyoruz Veri Yapıları Ve Algoritmalar Dersi
+ Veri Yapıları Ve Algoritmalar Dersi
